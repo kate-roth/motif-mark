@@ -1,5 +1,6 @@
-# Ignore class materials
+# data
 Fig_1_motifs.txt
 Figure_1.fasta
-Motif_mark.pdf
-pycairo_ex.ipynb
+
+# class materials
+classmaterials/
